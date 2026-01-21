@@ -1,0 +1,42 @@
+.main-header {
+    background-color: black;
+    position: relative;
+    width: 100%;
+    height: 100px;
+}
+
+.main-header #items-in-header {
+
+    width: 33.3%;
+
+}
+
+.icon-sun {
+    position: absolute;
+    right: 3%;
+    top: 22%
+}
+
+.logo {
+    position: absolute;
+    left: 43%;
+    top: 4%
+}
+
+.icon-letter {
+    position: absolute;
+    width: 100px;
+    left: 4%;
+    top: 25%;
+    background-color: red;
+    border-radius: 9px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.icon-letter span{
+    position: absolute;
+    top: 15px;
+}
+
